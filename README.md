@@ -42,5 +42,12 @@ Suitability score [6] for shipment destination [3532 Pacific Beach Drive, Pacifi
 Suitability score [4] for shipment destination [623 Evergreen Terrace, Portland, OR, 15125] and driver [John Doe].
 ```
 
+## Unit test
+To run unit test do following:
+```bash
+cd test
+npm test
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
