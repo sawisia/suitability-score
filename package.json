@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "suitability-score",
   "version": "1.0.0",
   "description": "Matching shipments and drivers based on highest suitability score.",
   "main": "app.js",
