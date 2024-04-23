@@ -25,7 +25,7 @@ node app.js --addresses=[path_to_destinations_file] --drivers=[path_to_drivers_f
 ```
 or
 ```bash
-node app.js -a=[path_to_destinations_file] -a=[path_to_drivers_file]
+node app.js -a=[path_to_destinations_file] -d=[path_to_drivers_file]
 ```
 
 Example:
