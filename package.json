@@ -1,0 +1,18 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Matching shipments and drivers based on highest suitability score.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Monika Michniewicz",
+  "dependencies": {
+    "mime-types": "^2.1.35",
+    "stdio": "^2.1.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
